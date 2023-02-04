@@ -1,1 +1,1 @@
-# HTML İlk Ödev
+# HTML Ödev
